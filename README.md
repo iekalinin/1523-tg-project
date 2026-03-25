@@ -6,3 +6,9 @@
 
 Калинин Иван, 8 "Э".
 
+# Как запустить?
+
+```shell
+$ pip install pyTelegramBotAPI
+$ python BOT-KALENDAR.py
+```
